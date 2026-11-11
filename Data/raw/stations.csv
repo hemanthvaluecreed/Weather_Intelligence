@@ -1,0 +1,9 @@
+station_id,station_name,state,elevation_m
+WX01,Hyderabad,Telangana,300
+WX02,Warangal,Telangana,700
+WX03,Vijayawada,Andhra Pradesh,700
+WX04,Visakhapatnam,Andhra Pradesh,300
+WX05,Pune,Maharashtra,300
+WX06,Mumbai,Maharashtra,300
+WX07,Bengaluru,Karnataka,700
+WX08,Chennai,Tamil Nadu,500
